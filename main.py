@@ -10,6 +10,7 @@ steven.color("green")
 steven.shape("turtle")
 steven.speed(0)
 
+
 # east is 0 north is 90 west is 180 and south is 270 or -90
 
 steven.pensize(5)
